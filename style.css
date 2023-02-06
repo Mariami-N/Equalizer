@@ -116,7 +116,7 @@ h2{
     line-height: 52px;
     color: #FCFAF9;
 }
-.redboxp{
+.redbox p{
     width: 333px;
     height: 170px;
     font-family: 'IBM Plex Sans';
@@ -299,7 +299,104 @@ footer p{
     margin-top: 30px;
 }
 .icon{
-    margin-right: 0;
-    margin-left: 580px;
+    width: 85px;
+    margin-left: 0;
+}
+}
+
+
+@media(max-width:375px){
+.contaner{
+    height: 1945px;
+}
+h6{
+    top: 40px;
+    left: 24px;
+}
+.mosaic{
+    display: none;
+}
+h1{
+    width: 327px;
+    height: 144px;
+    font-size: 40px;
+    line-height: 48px;
+    top: 136px;
+    Left: 24px;
+}
+.system{
+    width: 327px;
+    height: 156px;
+    font-size: 16px;
+    line-height: 26px;
+    top: 300px;
+    left: 24px;
+}
+.box{
+    width: 375px;
+    height: 600px;
+    top: 622px;
+    left: 0;
+}
+.inbox{
+    width: 280px;
+    height: 420px;
+    top: 622px;
+    left: 48px;
+}
+.phone{
+    width: 208px;
+    height: 430px;
+    top: 524px;
+    left: 80px;
+}
+.redbox{
+    width: 270px;
+    height: 546px;
+    left: 0;
+    top: 1002px;
+}
+h2{
+width: 250px;
+height: 40px;
+font-size: 32px;
+line-height: 40px;
+}
+.redbox p{
+    width: 250px;
+    height: 140px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.dolar{
+    width: 165px;
+    height: 52px;
+
+}
+.iphone{
+    width: 280px;
+    height: 61px;
+}
+.android{
+    width: 280px;
+    height: 61px;
+}
+h3{
+    display: inline;
+    margin-bottom: px;
+    margin-right: 166px;
+    font-family: "IBM Plex Sans";
+    font-size: 30px;
+    font-weight: 700;
+    width: 146px;
+}
+footer p{
+    width: 330px;
+    height: 79px;
+}
+.icon{
+    margin-left: 0;
+    width: 100px;
+    bottom: 10px;
 }
 }
