@@ -400,3 +400,94 @@ footer p{
     bottom: 10px;
 }
 }
+
+@media(max-width: 375px){
+.contaner{
+    height: 1945px;
+}
+h6{
+    top: 40px;
+    left: 24px;
+}
+.mosaic{
+    display: block;
+}
+h1{
+    width: 327px;
+    height: 144px;
+    left: 24px;
+    top: 136px;
+    font-size: 40px;
+    line-height: 48px;
+}
+.system{
+    width: 327px;
+    height: 156px;
+    left: 24px;
+}
+.box{
+    left: 0;
+    Width: 375px;
+    Height: 600px;
+}
+.phone{
+   width: 208px;
+    Height: 430px;
+    left: 80px;
+}
+.inbox{
+    left: 270px;
+    width: 250px;
+    height: 400px;
+}
+.redbox{
+    width: 375px;
+    height: 546px;
+    left: 0;
+} 
+/* h2{
+    Width: 302px;
+    Height: 40px;
+    font-size: 32px;
+}
+.redboxp{
+    width: 302px;
+    height: 140px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.iphone{
+    width: 296px;
+    height: 61px;
+}
+.android{
+    width: 296px;
+    height: 61px;
+}
+.dolar{
+    width: 165px;
+    Height: 52px;
+}
+footer{
+    Width: 696px;
+    Height: 143px;
+    flex-direction: column;
+    align-items: flex-start;
+    left: 33px;
+}
+h3{
+    width: 146.09px;
+    height: 32px;
+    margin-top: 34px;
+}
+footer p{
+    Width: 350px;
+    Height: 79px;
+    margin-left: 0;
+    margin-top: 30px;
+} */
+.icon{
+    margin-left: 24px;
+    margin-bottom: 80px;
+}
+}
